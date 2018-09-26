@@ -12,7 +12,7 @@ Please do NOT edit or remove others' link.
 
 + [example](http://121.42.163.214:700/)
 
-**#Else#**
+**##Else##**
 
 - your name
 
@@ -20,8 +20,8 @@ Please do NOT edit or remove others' link.
 
 ## 任务描述
 
-1. 学习使用 Git。任务提交：在 GitHub 上 fork 这个仓库，然后将你的链接加入上面的列表中，再打开 pull request。*请使用命令行进行 commit，i.e. 你的 commit 中不能出现 “committed on GitHub” 字样*
-   - 需要稍微了解一点
+1. 学习使用 Git。任务提交：在 GitHub 上 fork 这个仓库，然后将你的姓名加入上面的列表中，再打开 pull request。*请使用命令行进行 commit，i.e. 你的 commit 中不能出现 “committed on GitHub” 字样*
+   - 需要稍微了解一点Markdown语法知识（**Tips**）
 2. （**选做**）在服务器上搭建 LAMP 环境。任务提交：在一台公网可以访问的服务器上完成 LAMP 环境搭建，并创建一个网页来显示 PHP 探针，如上面的 example 所示。
 3. 了解前端，后端和运维的工作要求（**有关你们的方向，请重视**）
    1. 前端需要了解各个html标签的含义
