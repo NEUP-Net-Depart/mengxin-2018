@@ -83,7 +83,7 @@ Let your link display with your official name or widely-known nickname. Make sur
 Please do NOT edit or remove others' link.
 
 ### Part 1: Git Tutorial
-- your name
+- BaiYulong
 
 ### Part 2: Direction Choice
 *Submission is not required here.*
