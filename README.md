@@ -84,6 +84,7 @@ Please do NOT edit or remove others' link.
 
 ### Part 1: Git Tutorial
 - your name
+- SJJ
 
 ### Part 2: Direction Choice
 *Submission is not required here.*
@@ -93,4 +94,4 @@ Please do NOT edit or remove others' link.
 
 ### Part 4: Blog
 + [VOID001](https://void-shana.moe/)
-
++ [SJJ](https://sjj.ooo/)
