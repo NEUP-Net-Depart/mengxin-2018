@@ -85,7 +85,7 @@ Please do NOT edit or remove others' link.
 ### Part 1: Git Tutorial
 - your name
 - SJJ
-- BYL
+- BYL.
 
 ### Part 2: Direction Choice
 *Submission is not required here.*
