@@ -12,7 +12,7 @@
    入门建议先注册 GitHub 然后完成注册后的新手教程。在此之后完成 [try.github.io](https://try.github.io/) 上的命令行教程。
  - 任务提交：
  
-   在 GitHub 上 **fork** 这个（`mengxin-2018`）仓库，然后将你的姓名加入上面的列表中，再发起 **pull request**。
+   在 GitHub 上 **fork** 这个（`mengxin-2018`）仓库，然后将你的姓名加入文章末尾的列表中，再发起 **pull request**。
  - 注意事项：
    1. 你可能需要稍微了解一点 Markdown 语法知识
    2. 请使用命令行进行 **commit**， i.e. 你的 **commit** 中不能出现 `committed on GitHub` 字样。
@@ -26,7 +26,7 @@
       - 需要对浏览器渲染时的各种细节做到准确把握，在出现玄学问题时能系统地分析问题原因；
       - 至少掌握基础三件套的一组预处理器组合（如处理到 HTML 的 Pug、Haml、Slim 等，处理到 CSS 的 Sass、LESS、SCSS、Stylus 等，处理到 JavaScript 的 TypeScript、CoffeeScript 等，以及通用的预处理器 Emmet Abbreviation 等）；
       - 熟悉现代化 Web 处理技法，如 Babel、Webpack、响应式设计、PWA、ServiceWorker、异步 XMLHttp 请求、WebSocket 等；
-      - 掌握现代化前端框架（如 Vue.js、AngularJS、React 等）中的一个或多个；
+      - 掌握现代化前端框架（如 Vue.js、Angular、React 等）中的一个或多个；
       - 掌握前端 UI 框架（如 Bootstrap、jQuery DOM、jQuery EasyUI、Ant Design、ElementUI、iView、ECharts、Handlebars 等）中的一个或多个，以及其所依赖的前置技术栈；
       - 掌握前端模块化编程现代理念（如 require.js、CommonJS、Browserify、AMD 等）；
       - 掌握前后端通讯技术与框架（如 Websocket、jQuery XMLHttp、Axios、HTML5 `fetch` 等），熟悉对应的 HTTP 协议规范，了解基本的通讯归约与语义规范；
