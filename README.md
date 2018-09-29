@@ -22,6 +22,8 @@
    了解前端、后端和运维的工作及技能需求，结合自己的兴趣与他人的建议，决定自己的主力方向。
    一些可能的方向需求列举如下：
     * 前端方向：
+      - 需要对基础三件套（HTML、CSS、JavaScript）熟练掌握，尽量掌握较新版本（如HTML5、CSS3、ECMAScript6）等的特性；
+      - 需要对浏览器渲染时的各种细节做到准确把握，在出现玄学问题时能系统地分析问题原因；
       - 至少掌握基础三件套的一组预处理器组合（如处理到 HTML 的 [Pug](https://pugjs.org/)、[Haml](http://haml.info/)、[Slim](http://slim-lang.com/) 等，处理到 CSS 的 [Sass](https://sass-lang.com/)、[LESS](http://lesscss.org/)、[SCSS](http://sass-lang.com/documentation/file.SCSS_FOR_SASS_USERS.html)、[Stylus](http://stylus-lang.com/) 等，处理到 JavaScript 的 [TypeScript](https://www.typescriptlang.org/)、[CoffeeScript](https://coffeescript.org/) 等，以及通用的预处理器 [Emmet Abbreviation](https://emmet.io/) 等）；
       - 熟悉现代化 Web 处理技法，如 [Babel](https://babeljs.io/)、[Webpack](https://webpack.js.org/)、[响应式设计](https://en.wikipedia.org/wiki/Responsive_web_design)、[PWA](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=zh-cn)、[ServiceWorker](https://developer.mozilla.org/zh-CN/docs/Web/API/Service_Worker_API)、[异步 XMLHTTP 请求](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Synchronous_and_Asynchronous_Requests)、[WebSocket](https://developer.mozilla.org/zh-CN/docs/Web/API/WebSocket) 等；
       - 掌握现代化前端框架（如 [Vue.js](https://vuejs.org/)、[Angular](https://angular.io/)、[React](https://reactjs.org/) 等）中的一个或多个；
