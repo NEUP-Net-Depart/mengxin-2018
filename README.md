@@ -12,7 +12,7 @@
    入门建议先注册 GitHub 然后完成注册后的新手教程。在此之后完成 [try.github.io](https://try.github.io/) 上的命令行教程。
  - 任务提交：
  
-   在 GitHub 上 **fork** 这个（`mengxin-2018`）仓库，然后将你的姓名加入上面的列表中，再发起 **pull request**。
+   在 GitHub 上 **fork** 这个（`mengxin-2018`）仓库，然后将你的姓名加入文章末尾的列表中，再发起 **pull request**。
  - 注意事项：
    1. 你可能需要稍微了解一点 Markdown 语法知识
    2. 请使用命令行进行 **commit**， i.e. 你的 **commit** 中不能出现 `committed on GitHub` 字样。
@@ -22,14 +22,12 @@
    了解前端、后端和运维的工作及技能需求，结合自己的兴趣与他人的建议，决定自己的主力方向。
    一些可能的方向需求列举如下：
     * 前端方向：
-      - 需要对基础三件套（HTML、CSS、JavaScript）熟练掌握，尽量掌握较新版本（如HTML5、CSS3、ECMAScript6）等的特性；
-      - 需要对浏览器渲染时的各种细节做到准确把握，在出现玄学问题时能系统地分析问题原因；
-      - 至少掌握基础三件套的一组预处理器组合（如处理到 HTML 的 Pug、Haml、Slim 等，处理到 CSS 的 Sass、LESS、SCSS、Stylus 等，处理到 JavaScript 的 TypeScript、CoffeeScript 等，以及通用的预处理器 Emmet Abbreviation 等）；
-      - 熟悉现代化 Web 处理技法，如 Babel、Webpack、响应式设计、PWA、ServiceWorker、异步 XMLHttp 请求、WebSocket 等；
-      - 掌握现代化前端框架（如 Vue.js、AngularJS、React 等）中的一个或多个；
-      - 掌握前端 UI 框架（如 Bootstrap、jQuery DOM、jQuery EasyUI、Ant Design、ElementUI、iView、ECharts、Handlebars 等）中的一个或多个，以及其所依赖的前置技术栈；
-      - 掌握前端模块化编程现代理念（如 require.js、CommonJS、Browserify、AMD 等）；
-      - 掌握前后端通讯技术与框架（如 Websocket、jQuery XMLHttp、Axios、HTML5 `fetch` 等），熟悉对应的 HTTP 协议规范，了解基本的通讯归约与语义规范；
+      - 至少掌握基础三件套的一组预处理器组合（如处理到 HTML 的 [Pug](https://pugjs.org/)、[Haml](http://haml.info/)、[Slim](http://slim-lang.com/) 等，处理到 CSS 的 [Sass](https://sass-lang.com/)、[LESS](http://lesscss.org/)、[SCSS](http://sass-lang.com/documentation/file.SCSS_FOR_SASS_USERS.html)、[Stylus](http://stylus-lang.com/) 等，处理到 JavaScript 的 [TypeScript](https://www.typescriptlang.org/)、[CoffeeScript](https://coffeescript.org/) 等，以及通用的预处理器 [Emmet Abbreviation](https://emmet.io/) 等）；
+      - 熟悉现代化 Web 处理技法，如 [Babel](https://babeljs.io/)、[Webpack](https://webpack.js.org/)、[响应式设计](https://en.wikipedia.org/wiki/Responsive_web_design)、[PWA](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=zh-cn)、[ServiceWorker](https://developer.mozilla.org/zh-CN/docs/Web/API/Service_Worker_API)、[异步 XMLHTTP 请求](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Synchronous_and_Asynchronous_Requests)、[WebSocket](https://developer.mozilla.org/zh-CN/docs/Web/API/WebSocket) 等；
+      - 掌握现代化前端框架（如 [Vue.js](https://vuejs.org/)、[Angular](https://angular.io/)、[React](https://reactjs.org/) 等）中的一个或多个；
+      - 掌握前端 UI 框架（如 [Bootstrap](http://getbootstrap.com/)、[jQuery DOM](https://api.jquery.com/category/miscellaneous/dom-element-methods/)、[jQuery EasyUI](https://www.jeasyui.com/)、[Ant Design](https://ant.design/)、[ElementUI](https://github.com/ElemeFE/element)、[iView](https://www.iviewui.com/)、[ECharts](http://echarts.baidu.com/)、[Handlebars](http://handlebarsjs.com/) 等）中的一个或多个，以及其所依赖的前置技术栈；
+      - 掌握前端模块化编程现代理念（如 [RequireJS](https://requirejs.org/)、[CommonJS](https://nodejs.org/docs/latest/api/modules.html)、[Browserify](http://browserify.org/)、[AMD](https://requirejs.org/docs/whyamd.html) 等）；
+      - 掌握前后端通讯技术与框架（如 Websocket、jQuery XMLHTTP、[Axios](https://github.com/axios/axios)、[HTML5 `fetch`](https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch) 等），熟悉对应的 HTTP 协议规范，了解基本的通讯归约与语义规范；
       - ...
       
     * 后端方向：
@@ -84,6 +82,7 @@ Please do NOT edit or remove others' link.
 
 ### Part 1: Git Tutorial
 - your name
+- SJJ
 - wangjue
 
 ### Part 2: Direction Choice
@@ -94,4 +93,4 @@ Please do NOT edit or remove others' link.
 
 ### Part 4: Blog
 + [VOID001](https://void-shana.moe/)
-
++ [SJJ](https://sjj.ooo/)
