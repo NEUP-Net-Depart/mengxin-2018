@@ -89,13 +89,8 @@ Please do NOT edit or remove others' link.
 - BYL
 - packy
 - Luobendong
-
-
-
-
-
+- LiuDedong
 - Yuren
-
 - ChenYi
 
 ### Part 2: Direction Choice
