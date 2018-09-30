@@ -95,7 +95,7 @@ Please do NOT edit or remove others' link.
 - ChenYi
 - pengyang
 ### Part 2: Direction Choice
-*此处不需要提交。* 
+*Submission is not required here.* 
 
 ### Part 3: LAMP
 + [example](http://121.42.163.214:700/)
