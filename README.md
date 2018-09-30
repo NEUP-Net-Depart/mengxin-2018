@@ -93,9 +93,9 @@ Please do NOT edit or remove others' link.
 
 
 
-- Yuren
-
-- ChenYi
+-  Yuren  
+-  py
+- 陈毅  
 
 ### Part 2: Direction Choice
 *Submission is not required here.*
