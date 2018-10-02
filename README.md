@@ -1,4 +1,4 @@
-# NEUP-Net-Department 2018 Mengxin Plan (I)
+﻿# NEUP-Net-Department 2018 Mengxin Plan (I)
 > 注意： **任务估计所需时间为一周，请在国庆后例会 10 月 13 日之前完成。否则，视为没有完成任务。**
 > 10 月 13 日例会会总结此次学习，并给大家更详细地介绍 Git.
 
@@ -100,6 +100,7 @@ Please do NOT edit or remove others' link.
 ### Part 3: LAMP
 + [example](http://121.42.163.214:700/)
 + [packy](http://119.29.223.180/info.php)
++ [Yuren](http://62.234.101.17/phpinfo.php)
 ### Part 4: Blog
 + [VOID001](https://void-shana.moe/)
 + [SJJ](https://sjj.ooo/)
