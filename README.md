@@ -94,7 +94,6 @@ Please do NOT edit or remove others' link.
 - Yuren
 - ChenYi
 - pengyang
--muyixuan
 ### Part 2: Direction Choice
 *Submission is not required here.* 
 
