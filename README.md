@@ -95,7 +95,7 @@ Let your link display with your official name or widely-known nickname. Make sur
 Please do NOT edit or remove others' link.
 
 ### Part 1: Git Tutorial
-- your name
+- 颜扬升
 - SJJ
 - wangjue
 - BYL
@@ -128,4 +128,3 @@ Please do NOT edit or remove others' link.
 + [packy](https://www.packy.xyz/)
 + [BYL](https://byl0105.wordpress.com/)
 + [Yuren](http://yuren123.cn/)
-颜扬升
