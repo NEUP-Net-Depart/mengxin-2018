@@ -126,6 +126,7 @@ Please do NOT edit or remove others' link.
 
 ### Part 4: Blog
 + [VOID001](https://void-shana.moe/)
++ [cool2645](https://blog.cool2645.com/)
 + [SJJ](https://sjj.ooo/)
 + [packy](https://www.packy.xyz/)
 + [BYL](https://byl0105.wordpress.com/)
