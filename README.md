@@ -110,6 +110,7 @@ Please do NOT edit or remove others' link.
 - XuZhengqi
 - WangYang
 - Swinggcat
+- 灼眼のシャナ
 
 ### Part 2: Direction Choice
 *Submission is not required here.* 
