@@ -95,7 +95,7 @@ Let your link display with your official name or widely-known nickname. Make sur
 Please do NOT edit or remove others' link.
 
 ### Part 1: Git Tutorial
-- your name
+- your name 
 - SJJ
 - wangjue
 - BYL
@@ -112,6 +112,7 @@ Please do NOT edit or remove others' link.
 - Swinggcat
 - 灼眼のシャナ
 - 克莉斯丁
+- 颜扬升
 
 ### Part 2: Direction Choice
 *Submission is not required here.* 
