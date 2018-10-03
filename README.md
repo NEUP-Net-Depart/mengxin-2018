@@ -111,6 +111,7 @@ Please do NOT edit or remove others' link.
 - WangYang
 - Swinggcat
 - 灼眼のシャナ
+- 克莉斯丁
 
 ### Part 2: Direction Choice
 *Submission is not required here.* 
