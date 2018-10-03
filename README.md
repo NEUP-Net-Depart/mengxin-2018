@@ -16,6 +16,7 @@
  - 注意事项：
    1. 你可能需要稍微了解一点 Markdown 语法知识
    2. 请使用命令行进行 **commit**， i.e. 你的 **commit** 中不能出现 `committed on GitHub` 字样。
+   3. 请尽量避免使用会污染原文的工具进行编辑（比如会自动添加 BOM 头的 Windows 记事本、会自动调整 Markdown 空白字符格式的可视化 Markdown 编辑器等），就算使用也请在提交前对更改详情进行审查，避免向版本库提交有毒内容。
 
 ## Part 2: Direction Choice (必做)
  - 任务描述：
