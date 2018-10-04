@@ -116,22 +116,10 @@ Please do NOT edit or remove others' link.
 - Desnity
 - ZhouXinji
 - 二階堂夢月
+- 陈杰南
 
 ### Part 2: Direction Choice
 *Submission is not required here.* 
 
 ### Part 3: LAMP
 + [example](http://121.42.163.214:700/)
-+ [packy](http://119.29.223.180/info.php)
-+ [LiuDedong](http://39.105.11.245/info.php)
-+ [Yuren](http://62.234.101.17/phpinfo.php)
-+ [Chenyi](http://39.106.7.207/index.php)
-
-### Part 4: Blog
-+ [VOID001](https://void-shana.moe/)
-+ [cool2645](https://blog.cool2645.com/)
-+ [SJJ](https://sjj.ooo/)
-+ [packy](https://www.packy.xyz/)
-+ [BYL](https://byl0105.wordpress.com/)
-+ [Yuren](http://yuren123.cn/)
-+ [ZhouXinji](http://newzxj.wordpress.com/)
