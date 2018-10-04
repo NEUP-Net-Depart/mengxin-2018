@@ -118,6 +118,7 @@ Please do NOT edit or remove others' link.
 - 二階堂夢月
 - 陈杰南
 - zqw
+- Ray
 ### Part 2: Direction Choice
 *Submission is not required here.* 
 
