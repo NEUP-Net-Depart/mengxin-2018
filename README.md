@@ -115,6 +115,8 @@ Please do NOT edit or remove others' link.
 - 颜扬升
 - Desnity
 - ZhouXinji
+- 二階堂夢月
+- 陈杰南
 
 ### Part 2: Direction Choice
 *Submission is not required here.* 
@@ -125,6 +127,7 @@ Please do NOT edit or remove others' link.
 + [LiuDedong](http://39.105.11.245/info.php)
 + [Yuren](http://62.234.101.17/phpinfo.php)
 + [Chenyi](http://39.106.7.207/index.php)
++ [ZhouXinji](http://www.singheart.cn/phpinfo.php)
 
 ### Part 4: Blog
 + [VOID001](https://void-shana.moe/)
@@ -133,4 +136,4 @@ Please do NOT edit or remove others' link.
 + [packy](https://www.packy.xyz/)
 + [BYL](https://byl0105.wordpress.com/)
 + [Yuren](http://yuren123.cn/)
-+ [ZhouXinji](http://newzxj.wordpress.com/)
++ [ZhouXinji](http://www.singheart.cn/)
