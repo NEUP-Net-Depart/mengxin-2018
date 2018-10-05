@@ -110,7 +110,7 @@ Please do NOT edit or remove others' link.
 - pengyang
 - Lanyu
 - XuZhengqi
-- WangYang
+- Yakumosumi
 - Swinggcat
 - 灼眼のシャナ
 - 克莉斯丁
@@ -143,4 +143,5 @@ Please do NOT edit or remove others' link.
 + [ZhouXinji](http://www.singheart.cn/)
 + [ChenYi](http://39.106.7.207/)
 + [Beck](http://blog.wanggoutianxia.cn/wordpress/)
++ [yakumosumi](https://www.yakumosumi.xyz/)
 
