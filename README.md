@@ -118,6 +118,7 @@ Please do NOT edit or remove others' link.
 - 二階堂夢月
 - 陈杰南
 - zqw
+- emon100
 ### Part 2: Direction Choice
 *Submission is not required here.* 
 
@@ -135,4 +136,4 @@ Please do NOT edit or remove others' link.
 + [packy](https://www.packy.xyz/)
 + [BYL](https://byl0105.wordpress.com/)
 + [ZhouXinji](http://www.singheart.cn/)
-
++ [ChenYi](http://39.106.7.207/)
