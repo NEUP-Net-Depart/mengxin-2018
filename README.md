@@ -1,4 +1,4 @@
-# NEUP-Net-Department 2018 Mengxin Plan (I)
+﻿# NEUP-Net-Department 2018 Mengxin Plan (I)
 > 注意： **任务估计所需时间为一周，请在国庆后例会 10 月 13 日之前完成。否则，视为没有完成任务。**
 > 10 月 13 日例会会总结此次学习，并给大家更详细地介绍 Git.
 
@@ -96,6 +96,7 @@ Please do NOT edit or remove others' link.
 
 ### Part 1: Git Tutorial
 - your name 
+-SantaSati
 - SJJ
 - wangjue
 - BYL
@@ -113,13 +114,6 @@ Please do NOT edit or remove others' link.
 - 灼眼のシャナ
 - 克莉斯丁
 - 颜扬升
-- Desnity
-- ZhouXinji
-- 二階堂夢月
-- 陈杰南
-- Beck
-- emon100
-- Ray
 
 ### Part 2: Direction Choice
 *Submission is not required here.* 
@@ -128,17 +122,13 @@ Please do NOT edit or remove others' link.
 + [example](http://121.42.163.214:700/)
 + [packy](http://119.29.223.180/info.php)
 + [LiuDedong](http://39.105.11.245/info.php)
++ [Yuren](http://62.234.101.17/phpinfo.php)
 + [Chenyi](http://39.106.7.207/index.php)
-+ [ZhouXinji](http://www.singheart.cn/phpinfo.php)
-+ [Beck](http://132.232.200.176/info.php)
 
 ### Part 4: Blog
 + [VOID001](https://void-shana.moe/)
-+ [cool2645](https://blog.cool2645.com/)
 + [SJJ](https://sjj.ooo/)
 + [packy](https://www.packy.xyz/)
 + [BYL](https://byl0105.wordpress.com/)
-+ [ZhouXinji](http://www.singheart.cn/)
-+ [ChenYi](http://39.106.7.207/)
-+ [Beck](http://blog.wanggoutianxia.cn/wordpress/)
-
++ [Yuren](http://yuren123.cn/)
++ [颜扬升]（www.forzxy.cn）
