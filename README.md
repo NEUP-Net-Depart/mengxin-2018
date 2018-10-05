@@ -126,7 +126,6 @@ Please do NOT edit or remove others' link.
 + [example](http://121.42.163.214:700/)
 + [packy](http://119.29.223.180/info.php)
 + [LiuDedong](http://39.105.11.245/info.php)
-+ [Yuren](http://62.234.101.17/phpinfo.php)
 + [Chenyi](http://39.106.7.207/index.php)
 + [ZhouXinji](http://www.singheart.cn/phpinfo.php)
 
@@ -136,6 +135,5 @@ Please do NOT edit or remove others' link.
 + [SJJ](https://sjj.ooo/)
 + [packy](https://www.packy.xyz/)
 + [BYL](https://byl0105.wordpress.com/)
-+ [Yuren](http://yuren123.cn/)
 + [ZhouXinji](http://www.singheart.cn/)
 + [ChenYi](http://39.106.7.207/)
