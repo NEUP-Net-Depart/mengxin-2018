@@ -117,7 +117,7 @@ Please do NOT edit or remove others' link.
 - ZhouXinji
 - 二階堂夢月
 - 陈杰南
-- zqw
+- Beck
 - emon100
 ### Part 2: Direction Choice
 *Submission is not required here.* 
@@ -129,6 +129,7 @@ Please do NOT edit or remove others' link.
 + [Yuren](http://62.234.101.17/phpinfo.php)
 + [Chenyi](http://39.106.7.207/index.php)
 + [ZhouXinji](http://www.singheart.cn/phpinfo.php)
++ [Beck](http://132.232.200.176/info.php)
 
 ### Part 4: Blog
 + [VOID001](https://void-shana.moe/)
@@ -139,3 +140,5 @@ Please do NOT edit or remove others' link.
 + [Yuren](http://yuren123.cn/)
 + [ZhouXinji](http://www.singheart.cn/)
 + [ChenYi](http://39.106.7.207/)
++ [Beck](http://blog.wanggoutianxia.cn/wordpress/)
+
