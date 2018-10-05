@@ -114,7 +114,6 @@ Please do NOT edit or remove others' link.
 - Swinggcat
 - 灼眼のシャナ
 - 克莉斯丁
-- 颜扬升
 - Desnity
 - ZhouXinji
 - 二階堂夢月
@@ -123,6 +122,7 @@ Please do NOT edit or remove others' link.
 - emon100
 - Ray
 - 甘雨奇
+- 颜扬升
 
 ### Part 2: Direction Choice
 *Submission is not required here.* 
@@ -140,9 +140,10 @@ Please do NOT edit or remove others' link.
 + [cool2645](https://blog.cool2645.com/)
 + [SJJ](https://sjj.ooo/)
 + [packy](https://www.packy.xyz/)
++ [Yuren](http://yuren123.cn/)
++ [颜扬升](http://www.forzxy.cn/)
 + [BYL](https://byl0105.fun/)
 + [ZhouXinji](http://www.singheart.cn/)
 + [ChenYi](http://39.106.7.207/)
 + [Beck](http://blog.wanggoutianxia.cn/wordpress/)
 + [yakumosumi](https://www.yakumosumi.xyz/)
-
