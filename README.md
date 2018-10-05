@@ -140,7 +140,7 @@ Please do NOT edit or remove others' link.
 + [cool2645](https://blog.cool2645.com/)
 + [SJJ](https://sjj.ooo/)
 + [packy](https://www.packy.xyz/)
-+ [BYL](https://byl0105.wordpress.com/)
++ [BYL](https://byl0105.fun/)
 + [ZhouXinji](http://www.singheart.cn/)
 + [ChenYi](http://39.106.7.207/)
 + [Beck](http://blog.wanggoutianxia.cn/wordpress/)
