@@ -119,6 +119,8 @@ Please do NOT edit or remove others' link.
 - 陈杰南
 - zqw
 - emon100
+- Ray
+
 ### Part 2: Direction Choice
 *Submission is not required here.* 
 
