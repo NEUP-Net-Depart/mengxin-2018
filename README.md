@@ -135,6 +135,7 @@ Please do NOT edit or remove others' link.
 + [Chenyi](http://39.106.7.207/index.php)
 + [ZhouXinji](http://www.singheart.cn/phpinfo.php)
 + [Beck](http://132.232.200.176/info.php)
++ [Yuanwenxuan](http://pinfo.skylover.club/)
 
 ### Part 4: Blog
 + [VOID001](https://void-shana.moe/)
@@ -147,4 +148,9 @@ Please do NOT edit or remove others' link.
 + [ZhouXinji](http://www.singheart.cn/)
 + [ChenYi](http://39.106.7.207/)
 + [Beck](http://blog.wanggoutianxia.cn/wordpress/)
+<<<<<<< HEAD
 + [yakumosumi](https://yakumosumi.github.io)
+=======
++ [yakumosumi](https://www.yakumosumi.xyz/)
++ [Yuanwenxuan](http://blog.skylover.club/)
+>>>>>>> add task 3 4
