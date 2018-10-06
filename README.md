@@ -124,7 +124,7 @@ Please do NOT edit or remove others' link.
 - 颜扬升
 - Wu Xinran
 - Yuan Wenxuan
-Mayi
+   Mayi
 ### Part 2: Direction Choice
 *Submission is not required here.* 
 
