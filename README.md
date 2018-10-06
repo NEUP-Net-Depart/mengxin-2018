@@ -5,17 +5,30 @@
 ## Part 1: Git Tutorial (必做)
  - 任务描述：
    
-   Git 是一个版本控制工具。在我们多人协作的开发过程中你必须要学会使用它，不然你会几乎无法加入到我们的项目中。
+   Git 是一个版本控制工具。在加入我们进行多人协作的开发之前，你**必须学会**使用它，不然你将几乎无法为我们的项目做出有效的贡献。
 
-   虽然有一些图形操作工具，但是通常人们仍然在命令行中使用它。GitHub 是使用 Git 做版本控制的代码托管平台，也是最为活跃的开源社区。
+   虽然 Git 有为数众多的图形工具（比如 TortoiseGit、Git GUI（没错，这货是 Git Windows 版自带的）、GitKraken，甚至是各种 IDE 自带的 Git 组件（比如 JetBrains 系列 IDE 中的 Git 功能、微软 Visual Studio Code 中的 Git 功能等等）），但如果要**从根本上掌握 Git 的使用方法**，大家仍然**需要在命令行中使用 Git**，在 Git 命令行提供的各种命令中熟悉 Git 的各种操作。（太过功利可是学不到真东西的哦）
    
-   入门建议先注册 GitHub 然后完成注册后的新手教程。在此之后完成 [try.github.io](https://try.github.io/) 上的命令行教程。
+   GitHub，最为活跃的开源社区之一，是一个使用 Git 作为版本控制系统的代码托管平台。如无特殊情况，我们部门的项目都会托管于 GitHub，并遵循各种开源协议的规范和要求。所以要加入先锋网络部的大家庭，毫无疑问地**你需要注册一个自己的 GitHub 帐号**。有这样一种说法，一个程序员的 GitHub 帐号相当于这个程序员的门面，一个好的 GitHub 帐号是无声而最有力的简历和推荐信，而事实上你注册的 GitHub 帐号（如不出意外）将会陪伴你整个代码生涯，所以请**慎重地为自己选择一个 GitHub ID**，然后**给自己上传一个合适的头像**（也可以使用 GitHub 自动为你生成的像素风头像）。所以你还在等什么呢，快快为你的开源社区生涯打开第一扇门吧！
+   
+   完成注册 GitHub 之后，请学习并完成 [try.github.io](https://try.github.io/) 上有关 Git/GitHub 的命令行教程。同时你也可以参考网络上各种优质的 Git/GitHub 学习资料，**自学 Git 版本控制系统**，自学有关**如何在 GitHub 上进行协作**的内容。我们也为大家精选了一些学习资料，列举如下，供大家参考。也欢迎发现高质量学习资源的同学们发起 Pull Request，积极为大家补充！
+    - 廖雪峰《[Git 教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)》（由 @dongdaxiaodong 分享）
+    - 开源图书《Pro Git 第二版》
+      * 英文在线版：https://git-scm.com/book/en/v2
+      * 中文在线版：https://git-scm.com/book/zh/v2
+    - 网络部2018招新宣讲宣讲《Git版本控制与GitHub》[演示文稿](https://docs.google.com/presentation/d/1SSdmcZ3DXoZL836bpmGDI3ISkPWMomg0_ox6qV_mgpE/edit#slide=id.p)（by 舒意恒）
+    - 博文《Git入门与基础》（by 舒意恒） on [GitHub](https://github.com/lzw429/Git-Guide/blob/master/Git-%E5%85%A5%E9%97%A8%E4%B8%8E%E5%9F%BA%E7%A1%80.pdf)
+    - GitHub Guides：https://guides.github.com/
+    - Learn Git Branching：https://learngitbranching.js.org/
+    
+   另外要说明的一点是，虽然 GitHub 是英文的，还请大家**尽量避免使用全文翻译来浏览 GitHub 上的内容**。英文是每个合格的开发者必须要精通的，建议英文基础不太好的同学们常备词典（或电子辞典），记下自己不会的生词然后想办法掌握他们，而非直接通过全文翻译等工具绕过他们。提升英文阅读能力，将让你在以后阅读（和书写）纯英文文档时如虎添翼，极大的提升开发效率（以及与国际友人的沟通能力）。学英语，不吃亏！
  - 任务提交：
  
    在 GitHub 上 **fork** 这个（`mengxin-2018`）仓库，然后将你的姓名加入文章末尾的列表中，再发起 **pull request**。
  - 注意事项：
    1. 你可能需要稍微了解一点 Markdown 语法知识
    2. 请使用命令行进行 **commit**， i.e. 你的 **commit** 中不能出现 `committed on GitHub` 字样。
+   3. 请尽量避免使用会污染原文的工具进行编辑（比如会自动添加 BOM 头的 Windows 记事本、会自动调整 Markdown 空白字符格式的可视化 Markdown 编辑器等），就算使用也请在提交前对更改详情进行审查，避免向版本库提交有毒内容。
 
 ## Part 2: Direction Choice (必做)
  - 任务描述：
@@ -83,7 +96,7 @@ Let your link display with your official name or widely-known nickname. Make sur
 Please do NOT edit or remove others' link.
 
 ### Part 1: Git Tutorial
-- your name
+- your name 
 - SJJ
 - wangjue
 - BYL
@@ -94,15 +107,44 @@ Please do NOT edit or remove others' link.
 - Yuren
 - ChenYi
 - pengyang
-- Yuan wenxuan
+- Lanyu
+- XuZhengqi
+- Yakumosumi
+- Swinggcat
+- 灼眼のシャナ
+- 克莉斯丁
+- Desnity
+- ZhouXinji
+- 二階堂夢月
+- 陈杰南
+- Beck
+- emon100
+- Ray
+- 甘雨奇
+- 颜扬升
+- Wu Xinran
+- Yuan Wenxuan
+
 ### Part 2: Direction Choice
 *Submission is not required here.* 
 
 ### Part 3: LAMP
 + [example](http://121.42.163.214:700/)
 + [packy](http://119.29.223.180/info.php)
++ [LiuDedong](http://39.105.11.245/info.php)
++ [Chenyi](http://39.106.7.207/index.php)
++ [ZhouXinji](http://www.singheart.cn/phpinfo.php)
++ [Beck](http://132.232.200.176/info.php)
+
 ### Part 4: Blog
 + [VOID001](https://void-shana.moe/)
++ [cool2645](https://blog.cool2645.com/)
 + [SJJ](https://sjj.ooo/)
 + [packy](https://www.packy.xyz/)
-+ [BYL](https://byl0105.wordpress.com/)
++ [Yuren](http://yuren123.cn/)
++ [颜扬升](http://www.forzxy.cn/)
++ [BYL](https://byl0105.fun/)
++ [ZhouXinji](http://www.singheart.cn/)
++ [ChenYi](http://39.106.7.207/)
++ [Beck](http://blog.wanggoutianxia.cn/wordpress/)
++ [yakumosumi](https://www.yakumosumi.xyz/)
