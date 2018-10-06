@@ -1,4 +1,4 @@
-# NEUP-Net-Department 2018 Mengxin Plan (I)
+﻿# NEUP-Net-Department 2018 Mengxin Plan (I)
 > 注意： **任务估计所需时间为一周，请在国庆后例会 10 月 13 日之前完成。否则，视为没有完成任务。**
 > 10 月 13 日例会会总结此次学习，并给大家更详细地介绍 Git.
 
@@ -124,7 +124,7 @@ Please do NOT edit or remove others' link.
 - 颜扬升
 - Wu Xinran
 - Yuan Wenxuan
-
+Mayi
 ### Part 2: Direction Choice
 *Submission is not required here.* 
 
