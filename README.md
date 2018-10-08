@@ -137,6 +137,8 @@ Please do NOT edit or remove others' link.
 + [ZhouXinji](http://www.singheart.cn/phpinfo.php)
 + [Beck](http://132.232.200.176/info.php)
 + [Yuren](http://62.234.101.17/phpinfo.php)
++ [Lanyu](http://123.207.71.160/info.php)
++ [emon100](http://165.227.31.180/info.php)
 + [wangjue](http://118.24.215.204/index.php)
 
 ### Part 4: Blog
