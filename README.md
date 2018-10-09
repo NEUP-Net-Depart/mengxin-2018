@@ -126,6 +126,7 @@ Please do NOT edit or remove others' link.
 - Yuan Wenxuan
 - Mayi
 - GuoYao
+- 张莱瑞
 
 ### Part 2: Direction Choice
 *Submission is not required here.*
