@@ -137,6 +137,7 @@ Please do NOT edit or remove others' link.
 - GuoYao
 - 张莱瑞
 - An Honest Liar(jxlpzqc)
+- 魏士超
 
 ### Part 2: Direction Choice
 *Submission is not required here.*
