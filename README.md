@@ -140,7 +140,7 @@ Please do NOT edit or remove others' link.
 + [Lanyu](http://123.207.71.160/info.php)
 + [emon100](http://165.227.31.180/info.php)
 + [wangjue](http://118.24.215.204/index.php)
-+ [luobendong](http://199.247.29.196/info.php)
++ [luobendong](http://199.247.29.196/phpinfo.php)
 
 ### Part 4: Blog
 + [VOID001](https://void-shana.moe/)
@@ -156,3 +156,4 @@ Please do NOT edit or remove others' link.
 + [yakumosumi](https://yakumosumi.github.io)
 + [LiuDedong](http://39.105.11.245/wordpress/)
 + [emon100](http://165.227.31.180/)
++ [luobendong](http://199.247.29.196/wordpress)
