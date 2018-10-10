@@ -136,6 +136,7 @@ Please do NOT edit or remove others' link.
 - Mayi
 - GuoYao
 - 张莱瑞
+- An Honest Liar(jxlpzqc)
 
 ### Part 2: Direction Choice
 *Submission is not required here.*
@@ -169,3 +170,4 @@ Please do NOT edit or remove others' link.
 + [LiuDedong](http://39.105.11.245/wordpress/)
 + [emon100](http://165.227.31.180/)
 + [Yuanwenxuan](http://blog.skylover.club/)
++ [An Honest Liar(jxlpzqc)](https://jxlpzqc.github.io/blog)
