@@ -141,6 +141,7 @@ Please do NOT edit or remove others' link.
 - MsiQue
 - 曹子帆
 - 周思宇
+- FairyJie
 
 ### Part 2: Direction Choice
 *Submission is not required here.*
