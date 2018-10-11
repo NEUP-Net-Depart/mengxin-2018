@@ -142,6 +142,7 @@ Please do NOT edit or remove others' link.
 - 曹子帆
 - 周思宇
 - FairyJie
+- 魏士超
 
 ### Part 2: Direction Choice
 *Submission is not required here.*
