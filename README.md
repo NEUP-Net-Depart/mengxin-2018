@@ -145,6 +145,7 @@ Please do NOT edit or remove others' link.
 - 魏士超
 - Laansyukei 
 - oxygen
+- NEU Bob
 
 ### Part 2: Direction Choice
 *Submission is not required here.*
