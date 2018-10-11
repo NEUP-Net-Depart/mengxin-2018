@@ -143,6 +143,7 @@ Please do NOT edit or remove others' link.
 - 周思宇
 - FairyJie
 - 魏士超
+- Laansyukei
 
 ### Part 2: Direction Choice
 *Submission is not required here.*
