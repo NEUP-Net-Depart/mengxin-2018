@@ -137,6 +137,7 @@ Please do NOT edit or remove others' link.
 - GuoYao
 - 张莱瑞
 - An Honest Liar(jxlpzqc)
+- MsiQue
 - 曹子帆
 
 ### Part 2: Direction Choice
