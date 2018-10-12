@@ -136,8 +136,16 @@ Please do NOT edit or remove others' link.
 - Mayi
 - GuoYao
 - 张莱瑞
+- Yunqi(Test)
 - An Honest Liar(jxlpzqc)
 - MsiQue
+- 曹子帆
+- 周思宇
+- FairyJie
+- 魏士超
+- Laansyukei 
+- oxygen
+- NEU Bob
 
 ### Part 2: Direction Choice
 *Submission is not required here.*
@@ -153,7 +161,7 @@ Please do NOT edit or remove others' link.
 + [Lanyu](http://123.207.71.160/info.php)
 + [emon100](http://165.227.31.180/info.php)
 + [wangjue](http://118.24.215.204/index.php)
-+ [luobendong](http://199.247.29.196/info.php)
++ [luobendong](http://199.247.29.196/phpinfo.php)
 + [Yuanwenxuan](http://pinfo.skylover.club)
 
 ### Part 4: Blog
@@ -170,5 +178,6 @@ Please do NOT edit or remove others' link.
 + [yakumosumi](https://yakumosumi.github.io)
 + [LiuDedong](http://39.105.11.245/wordpress/)
 + [emon100](http://165.227.31.180/)
++ [luobendong](http://199.247.29.196/wordpress)
 + [Yuanwenxuan](http://blog.skylover.club/)
 + [An Honest Liar(jxlpzqc)](https://jxlpzqc.github.io/blog)
