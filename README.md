@@ -146,6 +146,7 @@ Please do NOT edit or remove others' link.
 - Laansyukei 
 - oxygen
 - NEU Bob
+- wuying
 
 ### Part 2: Direction Choice
 *Submission is not required here.*
@@ -155,7 +156,7 @@ Please do NOT edit or remove others' link.
 + [packy](http://119.29.223.180/info.php)
 + [LiuDedong](http://39.105.11.245/info.php)
 + [Chenyi](http://39.106.7.207/index.php)
-+ [ZhouXinji](http://www.singheart.cn/phpinfo.php)
++ [ZhouXinji](http://123.207.163.182/phpinfo.php)
 + [Beck](http://132.232.200.176/info.php)
 + [Yuren](http://62.234.101.17/phpinfo.php)
 + [Lanyu](http://123.207.71.160/info.php)
@@ -163,6 +164,7 @@ Please do NOT edit or remove others' link.
 + [wangjue](http://118.24.215.204/index.php)
 + [luobendong](http://199.247.29.196/phpinfo.php)
 + [Yuanwenxuan](http://pinfo.skylover.club)
++ [wuying](http://shadowthief.cc/info.php)
 + [MsiQue](http://39.105.126.76/info.php)
 
 ### Part 4: Blog
@@ -173,7 +175,7 @@ Please do NOT edit or remove others' link.
 + [Yuren](http://yuren123.cn/)
 + [颜扬升](http://www.forzxy.cn/)
 + [BYL](https://byl0105.fun/)
-+ [ZhouXinji](http://www.singheart.cn/)
++ [ZhouXinji](http://123.207.163.182/)
 + [ChenYi](http://39.106.7.207/)
 + [Beck](http://blog.wanggoutianxia.cn/wordpress/)
 + [yakumosumi](https://yakumosumi.github.io)
