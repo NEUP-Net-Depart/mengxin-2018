@@ -164,7 +164,7 @@ Please do NOT edit or remove others' link.
 + [wangjue](http://118.24.215.204/index.php)
 + [luobendong](http://199.247.29.196/phpinfo.php)
 + [Yuanwenxuan](http://pinfo.skylover.club)
-+ [wuying](http://202.91.35.187/info.php)
++ [wuying](http://shadowthief.cc/info.php)
 
 ### Part 4: Blog
 + [VOID001](https://void-shana.moe/)
