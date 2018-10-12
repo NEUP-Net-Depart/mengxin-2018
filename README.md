@@ -1,5 +1,7 @@
+# NEUP-Net-Department 2018 Mengxin Plan (I)
+> 注意： **任务估计所需时间为一周，请在国庆后例会 10 月 13 日之前完成。否则，视为没有完成任务。**
+> 10 月 13 日例会会总结此次学习，并给大家更详细地介绍 Git.
 
-<<<<<<< HEAD
 ## Part 1: Git Tutorial (必做)
  - 任务描述：
 
@@ -179,5 +181,3 @@ Please do NOT edit or remove others' link.
 + [luobendong](http://199.247.29.196/wordpress)
 + [Yuanwenxuan](http://blog.skylover.club/)
 + [An Honest Liar(jxlpzqc)](https://jxlpzqc.github.io/blog)
-=======
->>>>>>> f7ab710a1e16aae8a05cc531b5e94b34407a459f
