@@ -146,6 +146,7 @@ Please do NOT edit or remove others' link.
 - Laansyukei 
 - oxygen
 - NEU Bob
+- wuying
 
 ### Part 2: Direction Choice
 *Submission is not required here.*
@@ -163,6 +164,7 @@ Please do NOT edit or remove others' link.
 + [wangjue](http://118.24.215.204/index.php)
 + [luobendong](http://199.247.29.196/phpinfo.php)
 + [Yuanwenxuan](http://pinfo.skylover.club)
++ [wuying](http://shadowthief.cc/info.php)
 
 ### Part 4: Blog
 + [VOID001](https://void-shana.moe/)
