@@ -166,6 +166,7 @@ Please do NOT edit or remove others' link.
 + [Yuanwenxuan](http://pinfo.skylover.club)
 + [wuying](http://shadowthief.cc/info.php)
 + [MsiQue](http://39.105.126.76/info.php)
++ [曹子帆](http://140.143.12.61/phpinfo.php)
 
 ### Part 4: Blog
 + [VOID001](https://void-shana.moe/)
@@ -185,3 +186,4 @@ Please do NOT edit or remove others' link.
 + [Yuanwenxuan](http://blog.skylover.club/)
 + [An Honest Liar(jxlpzqc)](https://jxlpzqc.github.io/blog)
 + [wuying](http://shadowthief.cc/)
++ [曹子帆](http://mifanblog.cn)
